@@ -16,4 +16,8 @@
 
 
 /* Column Styles */
-
+@media only screen and (mid-width: 641px) {
+   article{
+      column-count: 2;
+   }
+}
